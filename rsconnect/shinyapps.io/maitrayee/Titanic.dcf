@@ -1,0 +1,10 @@
+name: Titanic
+account: maitrayee
+server: shinyapps.io
+appId: 137369
+bundleId: 613406
+url: https://maitrayee.shinyapps.io/Titanic/
+when: 1479071884.58106
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Input/test.csv|Input/train.csv
